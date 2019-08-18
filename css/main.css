@@ -54,7 +54,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 a {
-    color: #000000;
+    color: #666666;
     text-decoration: none;
     outline: none;
     -webkit-transition: all 0.3s ease-in-out;
